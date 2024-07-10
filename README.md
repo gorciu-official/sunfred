@@ -1,2 +1,2 @@
-# sunfred
+# Sunfred
 A Sunfred AI
